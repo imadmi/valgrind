@@ -3,7 +3,7 @@
 ### install in one line
 
 ```sh
-git clone https://github.com/paji1/valgrind.git && cd valgrind && ./installer
+git clone https://github.com/imadmi/valgrind.git && cd valgrind && ./installer
 ```
 
 ### How to use
